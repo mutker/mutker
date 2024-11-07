@@ -1,3 +1,1 @@
-**Migrated to: https://codeberg.org/mutker/**
-
-_This is only a mirror!_
+### This is a mirror of https://codeberg.org/mutker.
